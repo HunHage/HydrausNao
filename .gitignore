@@ -1,3 +1,5 @@
 hashes.txt
 config.ini
 *.bat
+venv
+.idea
